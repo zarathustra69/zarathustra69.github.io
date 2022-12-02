@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a11a077.css",
+    "main.js": "/static/js/main.97cfac95.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg-pic.jpg": "/static/media/bg-pic.364ec4c4dad0bc586b83.jpg",
+    "static/media/bg-pic-2.jpg": "/static/media/bg-pic-2.ddce5bcedcdea0882018.jpg",
+    "static/media/insta-3.jpg": "/static/media/insta-3.df4822b0ce02d246a433.jpg",
+    "static/media/insta-2.jpg": "/static/media/insta-2.ff79395ae60614196890.jpg",
+    "static/media/insta-5.jpg": "/static/media/insta-5.7486688c2a00f6819fef.jpg",
+    "static/media/insta-4.jpg": "/static/media/insta-4.5a7fa3d43eecfc63ddc6.jpg",
+    "static/media/insta-1.jpeg": "/static/media/insta-1.c5a6e737884208029a00.jpeg",
+    "static/media/cell-2.jpg": "/static/media/cell-2.07bee5146b31c20ab0dd.jpg",
+    "static/media/cell-3.jpg": "/static/media/cell-3.c6416e86cc7aec088fd3.jpg",
+    "static/media/author.jpg": "/static/media/author.23fff5c51000ba6ef763.jpg",
+    "static/media/cell-1.jpg": "/static/media/cell-1.93589f9019c392d58778.jpg",
+    "static/media/insta-6.jpg": "/static/media/insta-6.698268f6818336d1e258.jpg",
+    "static/media/cell-4.jpg": "/static/media/cell-4.2138a140fcdada2996ff.jpg",
+    "index.html": "/index.html",
+    "main.1a11a077.css.map": "/static/css/main.1a11a077.css.map",
+    "main.97cfac95.js.map": "/static/js/main.97cfac95.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a11a077.css",
+    "static/js/main.97cfac95.js"
+  ]
+}
